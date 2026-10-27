@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "65479819338360cd4db51584"
+  },
+  "gid": "GW101",
+  "gname": "Family Tree",
+  "gprice": {
+    "$numberDecimal": "5000.00"
+  },
+  "gtype": "Wall Decors"
+},
+{
+  "_id": {
+    "$oid": "65479949338360cd4db51585"
+  },
+  "gid": "GW102",
+  "gname": "Paintings",
+  "gprice": {
+    "$numberDecimal": "2500.00"
+  },
+  "gtype": "Wall Decors"
+},
+{
+  "_id": {
+    "$oid": "65479a2f338360cd4db51586"
+  },
+  "gid": "GW103",
+  "gname": "LED Photos",
+  "gprice": {
+    "$numberDecimal": "500.00"
+  },
+  "gtype": "Wall Decors"
+}]

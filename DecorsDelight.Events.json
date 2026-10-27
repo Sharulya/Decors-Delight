@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65479eb4338360cd4db51588"
+  },
+  "eid": "E101",
+  "ename": "Birthday",
+  "package": "5000-20000"
+},
+{
+  "_id": {
+    "$oid": "6547a0f9338360cd4db51589"
+  },
+  "eid": "E102",
+  "ename": "Engagement",
+  "package": "15000-50000"
+},
+{
+  "_id": {
+    "$oid": "6547a7bd338360cd4db5158b"
+  },
+  "eid": "E103",
+  "ename": "Wedding",
+  "package": "30000-100000"
+},
+{
+  "_id": {
+    "$oid": "6547a9b6338360cd4db5158c"
+  },
+  "eid": "E104",
+  "ename": "Baby Shower",
+  "package": "20000-80000"
+},
+{
+  "_id": {
+    "$oid": "6547aa6f338360cd4db5158d"
+  },
+  "eid": "E105",
+  "ename": "Plate Decorations",
+  "package": "1000-5000"
+},
+{
+  "_id": {
+    "$oid": "6547ab16338360cd4db5158e"
+  },
+  "eid": "E106",
+  "ename": "Property Decors",
+  "package": "5000-25000"
+}]
